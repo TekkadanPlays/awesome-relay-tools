@@ -1,6 +1,6 @@
 # awesome-relay-tools [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
 
-> A curated list of resources for Nostr applications and communities that interface with relay.tools.
+> A curated list of resources for Nostr applications and communities that interface and interoperate with relay.tools.
 
 ## What is Nostr?
 
@@ -19,6 +19,10 @@ It can also be built on something as small as an rPi and remain performant. Howe
 - [relay.tools on GitHub](https://github.com/relaytools)
 - [relay.tools install guide](https://github.com/relaytools/docs)
 - [relay.tools live deployment](https://relay.tools)
+
+## Applications
+
+- [flotilla](https://github.com/Pleb5/flotilla-budabit)
 
 ## Contribute
 
