@@ -1,32 +1,35 @@
-# awesome-list [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# awesome-relay-tools [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
 
-[![Buy Me A Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://tinyurl.com/2h9aktmd) &nbsp; [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://tinyurl.com/d4xnrptz) &nbsp; [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://tinyurl.com/mr22naua) &nbsp; [![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3)
+> A curated list of resources for Nostr applications and communities that interface with relay.tools.
 
-> A curated list of resources for
+| XMR: 41xZCi5YHDMGTPZbeztdHaTgDMfzjFhKiFLCcn9u6fUHfKH72iDY6GjGFfD4dMtRqk2KEQA86Yc6w6epgizPSmSnPBcKmsh |
+| ------------ |
+| BTC: bc1qm9rdfu0he8rv83ewxsf4mc00rwj9ce04fdspk3 |
+| LN: tekkadan@coinos.io |
 
-## Contents
+## What is Nostr?
 
-- [Section](#section)
-- [Another Section](#another-section)
+Check out the following links to discover more about Nostr:
 
-## Section
+- [nostr.com](https://nostr.com/)
+- [nostr apps explorer](https://nostr.net/) (this renders the awesome-nostr list below)
+- [awesome-nostr](https://github.com/aljazceru/awesome-nostr) 
 
-About this section. Optional. Keep this short and focus on the list.
+## What is relay.tools?
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+[relay.tools](https://relay.tools/) is the fastest and easiest way to launch new relays for Nostr on web-facing virtual servers. 
 
-## Another Section
+It can also be built on something as small as an rPi and remain performant. However, the automated install requires 4gb of memory at this time.
 
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [relay.tools on GitHub](https://github.com/relaytools)
+- [relay.tools install guide](https://github.com/relaytools/docs)
+- [relay.tools live deployment](https://relay.tools)
 
 ## Contribute
 
 Contributions are welcome!
+
+To contribute to relay.tools, join the [discussions](https://github.com/orgs/relaytools/discussions)!
 
 ## License
 
