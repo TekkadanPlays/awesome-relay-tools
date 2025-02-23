@@ -2,11 +2,6 @@
 
 > A curated list of resources for Nostr applications and communities that interface with relay.tools.
 
-| XMR: 41xZCi5YHDMGTPZbeztdHaTgDMfzjFhKiFLCcn9u6fUHfKH72iDY6GjGFfD4dMtRqk2KEQA86Yc6w6epgizPSmSnPBcKmsh |
-| ------------ |
-| BTC: bc1qm9rdfu0he8rv83ewxsf4mc00rwj9ce04fdspk3 |
-| LN: tekkadan@coinos.io |
-
 ## What is Nostr?
 
 Check out the following links to discover more about Nostr:
@@ -30,6 +25,11 @@ It can also be built on something as small as an rPi and remain performant. Howe
 Contributions are welcome!
 
 To contribute to relay.tools, join the [discussions](https://github.com/orgs/relaytools/discussions)!
+
+| XMR: 41xZCi5YHDMGTPZbeztdHaTgDMfzjFhKiFLCcn9u6fUHfKH72iDY6GjGFfD4dMtRqk2KEQA86Yc6w6epgizPSmSnPBcKmsh |
+| ------------ |
+| BTC: bc1qm9rdfu0he8rv83ewxsf4mc00rwj9ce04fdspk3 |
+| LN: tekkadan@coinos.io |
 
 ## License
 
